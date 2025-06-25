@@ -64,3 +64,4 @@ hello-world/
 
 This repository is for personal learning and demonstration purposes.
 # sequelize
+# sequelize
